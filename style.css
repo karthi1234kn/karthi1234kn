@@ -1,0 +1,67 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    
+}
+.home{
+ float: left;
+ display: flex;
+}
+.hometext{
+    padding-top: 10%;
+}
+.hometext h1{
+    font-weight: 500;
+    font-size: 56px;
+    color: yellow;
+}
+.hometext p{
+    font-size: 24px;
+}
+.btn {
+    background: #fff200;
+    background-image: -webkit-linear-gradient(top, #fff200, #ffd208);
+    background-image: -moz-linear-gradient(top, #fff200, #ffd208);
+    background-image: -ms-linear-gradient(top, #fff200, #ffd208);
+    background-image: -o-linear-gradient(top, #fff200, #ffd208);
+    background-image: linear-gradient(to bottom, #fff200, #ffd208);
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #3cb0fd;
+    background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+    text-decoration: none;
+  }
+  .catagories{
+    text-align: center;
+  }
+  .catagories strong h2{
+    color:yellow
+  }
+  .heading{
+    text-align: center;
+    color: yellow;
+  }
+  .card-body{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  }
+  .footer{
+    display: flex;
+    text-decoration:none;
+    color: yellow;
+    background-color: black;
+  }
+  //how to create a .card-body
+
+  
